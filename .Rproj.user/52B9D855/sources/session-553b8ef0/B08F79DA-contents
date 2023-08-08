@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "AC-2023"
+  site-url: https://fcpys.github.io/metoii2024_1/
+  repo-url: https://github.com/fcpys/metoii2024_1/
+  repo-branch: main
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: equipo.qmd
+        text: Equipo docente
+      - href: about.qmd
+        text: Programa 
+
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

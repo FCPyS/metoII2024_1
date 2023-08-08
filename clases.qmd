@@ -1,0 +1,10 @@
+---
+title: "Clases"
+---
+
+## Sesión 1: 30 de enero de 2023
+
+<iframe src="./clases/s1.pdf" title="Sesión 1" width="960" height="500">
+</iframe>
+
+En esta primera sesión leimos el programa y además vimos un poquito de los enfoques de investigación
