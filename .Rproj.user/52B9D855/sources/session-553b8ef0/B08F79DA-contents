@@ -3,7 +3,7 @@ project:
   output-dir: "docs"
 
 website:
-  title: "AC-2023"
+  title: "METII2024_1"
   site-url: https://fcpys.github.io/metoii2024_1/
   repo-url: https://github.com/fcpys/metoii2024_1/
   repo-branch: main
